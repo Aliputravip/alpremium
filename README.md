@@ -3,7 +3,7 @@
 
 <h2 align="center">
 Auto Script Install All VPN Service
-Mod By NevermoreSSH
+Mod By Alpremium
 <img src="https://img.shields.io/badge/Release-v1.4-purple.svg"></h2>
 
 </p> 
